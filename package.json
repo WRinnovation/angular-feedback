@@ -4,23 +4,17 @@
   "version": "1.2.1",
   "filename": "angular-send-feedback.min.js",
   "main": "./dist/angular-send-feedback.min.js",
-  "homepage": "https://github.com/jacobscarter/angular-feedback",
+  "homepage": "https://github.com/WRinnovation/angular-feedback",
   "author": "Jacob Carter <jacob@ieksolutions.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jacobscarter/angular-feedback.git"
+    "url": "git://github.com/WRinnovation/angular-feedback.git"
   },
   "keywords": [
     "angular",
     "ui",
     "feedback",
     "google-feedback"
-  ],
-  "maintainers": [
-    {
-      "name": "Jacob Carter",
-      "website": "http://strangemilk.com/"
-    }
   ],
   "dependencies": {},
   "devDependencies": {

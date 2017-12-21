@@ -68,7 +68,7 @@ angular.module('angular-send-feedback').directive('angularFeedback', [ function(
                     }, options);
                         var supportedBrowser = !!window.HTMLCanvasElement;
                         var isFeedbackButtonNative = settings.feedbackButton == '.feedback-btn';
-                        var _html2canvas = false;
+                        var _html2canvas = true;
                         if (supportedBrowser) {
                             if(isFeedbackButtonNative) {
                                 $('body').append(settings.tpl.initButton);

@@ -48,7 +48,7 @@ angular.module('angular-send-feedback').directive('angularFeedback', [ function(
                             shadowBlur:             10,
                             lineJoin:               'bevel',
                             lineWidth:              3,
-                            html2canvasURL:         'static/jacobscarter-angular-feedback/html2canvas.min.js',
+                            html2canvasURL:         'static/html2canvas/dist/html2canvas.min.js',
                             feedbackButton:         '.feedback-btn',
                             showDescriptionModal:   true,
                             isDraggable:            true,
